@@ -32,6 +32,7 @@ let itemRadius = 15;
 /**
  * getPWD 手势完成后，回调返回密码[0,1,2,3,4,5,6,7,8]9个数字
  * width height: 键盘长宽
+ * jambin 2018/03/06 PM
  */
 class GesturePassword extends Component {
     constructor(props) {
