@@ -3,4 +3,4 @@
 使用方式看App.js代码：
 import GesturePassword from './rnlibary/views/GesturePWD/GesturePassword.js';
 
-<GesturePassword getPWD={this._getPWD.bind(this)} />
+"<GesturePassword getPWD={this._getPWD.bind(this)} />"
